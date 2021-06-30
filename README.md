@@ -1,1 +1,3 @@
-# First-Modmail
+# First-Modmail 
+
+**FIRSTLY TRY TO LEARN DO NOT COPY PASTE OR YOU WILL NOT LEARN NOTHING!**
