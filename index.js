@@ -348,5 +348,5 @@ client.on("message", async message => {
 
 })
 
-client.login("Token");
+client.login("your-token-here");
 
